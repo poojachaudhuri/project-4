@@ -4,11 +4,11 @@ This project analyses 311 service requests related to heat and hot water from NY
 
 ## Guide to the repository ##
 
- `notebooks:` This folder contains all the python notebook. `cleaning.ipynb` contains the code that was used to clean the 311 data. `census.ipynb` contain all the code to make API calls to the U.S. Census Bureau data. The API was used to get data related to zip code level population, median income and percentage below poverty. `zip_codes.ipynb` contains the code that was used to scrape [nycnatives.com](https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php) which has a list of NYC zip codes. `plotting.ipynb` contains R (ggplot2) codes used to plot the data and make charts that were later cleaned on Adobe Illustrator. 
+* `notebooks:` This folder contains all the python notebook. `cleaning.ipynb` contains the code that was used to clean the 311 data. `census.ipynb` contain all the code to make API calls to the U.S. Census Bureau data. The API was used to get data related to zip code level population, median income and percentage below poverty. `zip_codes.ipynb` contains the code that was used to scrape [nycnatives.com](https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php) which has a list of NYC zip codes. `plotting.ipynb` contains R (ggplot2) codes used to plot the data and make charts that were later cleaned on Adobe Illustrator. 
  
- `docs:` This folder contains the parquet and csv files for the 311 data, census data and zip codes. 
+* `docs:` This folder contains the parquet and csv files for the 311 data, census data and zip codes. 
  
- `images:` Contains all the images of the charts used in the html file. The images were generated using ai2html. 
+* `images:` Contains all the images of the charts used in the html file. The images were generated using ai2html. 
 
 ## Findings ##
 
